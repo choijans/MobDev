@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Josh\\source\\repos\\ToDo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A015D0-5AEB-4C94-9640-772AAB7E9D0D}|ToDo\\ToDo.csproj|c:\\users\\josh\\source\\repos\\todo\\todo\\views\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A015D0-5AEB-4C94-9640-772AAB7E9D0D}|ToDo\\ToDo.csproj|solutionrelative:todo\\views\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A015D0-5AEB-4C94-9640-772AAB7E9D0D}|ToDo\\ToDo.csproj|c:\\users\\josh\\source\\repos\\todo\\todo\\views\\signinpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A015D0-5AEB-4C94-9640-772AAB7E9D0D}|ToDo\\ToDo.csproj|solutionrelative:todo\\views\\signinpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A015D0-5AEB-4C94-9640-772AAB7E9D0D}|ToDo\\ToDo.csproj|c:\\users\\josh\\source\\repos\\todo\\todo\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A015D0-5AEB-4C94-9640-772AAB7E9D0D}|ToDo\\ToDo.csproj|solutionrelative:todo\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A015D0-5AEB-4C94-9640-772AAB7E9D0D}|ToDo\\ToDo.csproj|c:\\users\\josh\\source\\repos\\todo\\todo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A015D0-5AEB-4C94-9640-772AAB7E9D0D}|ToDo\\ToDo.csproj|solutionrelative:todo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A015D0-5AEB-4C94-9640-772AAB7E9D0D}|ToDo\\ToDo.csproj|c:\\users\\josh\\source\\repos\\todo\\todo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3A015D0-5AEB-4C94-9640-772AAB7E9D0D}|ToDo\\ToDo.csproj|solutionrelative:todo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A015D0-5AEB-4C94-9640-772AAB7E9D0D}|ToDo\\ToDo.csproj|c:\\users\\josh\\source\\repos\\todo\\todo\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3A015D0-5AEB-4C94-9640-772AAB7E9D0D}|ToDo\\ToDo.csproj|solutionrelative:todo\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A015D0-5AEB-4C94-9640-772AAB7E9D0D}|ToDo\\ToDo.csproj|c:\\users\\josh\\source\\repos\\todo\\todo\\views\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3A015D0-5AEB-4C94-9640-772AAB7E9D0D}|ToDo\\ToDo.csproj|solutionrelative:todo\\views\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A015D0-5AEB-4C94-9640-772AAB7E9D0D}|ToDo\\ToDo.csproj|c:\\users\\josh\\source\\repos\\todo\\todo\\views\\signinpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3A015D0-5AEB-4C94-9640-772AAB7E9D0D}|ToDo\\ToDo.csproj|solutionrelative:todo\\views\\signinpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A015D0-5AEB-4C94-9640-772AAB7E9D0D}|ToDo\\ToDo.csproj|c:\\users\\josh\\source\\repos\\todo\\todo\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3A015D0-5AEB-4C94-9640-772AAB7E9D0D}|ToDo\\ToDo.csproj|solutionrelative:todo\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A015D0-5AEB-4C94-9640-772AAB7E9D0D}|ToDo\\ToDo.csproj|c:\\users\\josh\\source\\repos\\todo\\todo\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A015D0-5AEB-4C94-9640-772AAB7E9D0D}|ToDo\\ToDo.csproj|solutionrelative:todo\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "ToDo\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\AppShell.xaml.cs",
+              "RelativeToolTip": "ToDo\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T06:06:57.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "ToDo\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\MauiProgram.cs",
+              "RelativeToolTip": "ToDo\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:12:52.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUpPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\Views\\SignUpPage.xaml.cs",
+              "RelativeDocumentMoniker": "ToDo\\Views\\SignUpPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\Views\\SignUpPage.xaml.cs",
+              "RelativeToolTip": "ToDo\\Views\\SignUpPage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:00:25.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignInPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\Views\\SignInPage.xaml.cs",
+              "RelativeDocumentMoniker": "ToDo\\Views\\SignInPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\Views\\SignInPage.xaml.cs",
+              "RelativeToolTip": "ToDo\\Views\\SignInPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:00:11.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignInPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\Views\\SignInPage.xaml",
+              "RelativeDocumentMoniker": "ToDo\\Views\\SignInPage.xaml",
+              "ToolTip": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\Views\\SignInPage.xaml",
+              "RelativeToolTip": "ToDo\\Views\\SignInPage.xaml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-26T04:59:12.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ToDo\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\App.xaml.cs",
+              "RelativeToolTip": "ToDo\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T04:57:24.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\App.xaml",
+              "RelativeDocumentMoniker": "ToDo\\App.xaml",
+              "ToolTip": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\App.xaml",
+              "RelativeToolTip": "ToDo\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-26T04:57:14.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\AppShell.xaml",
+              "RelativeDocumentMoniker": "ToDo\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\AppShell.xaml",
+              "RelativeToolTip": "ToDo\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-26T04:57:01.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignUpPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\Views\\SignUpPage.xaml",
+              "RelativeDocumentMoniker": "ToDo\\Views\\SignUpPage.xaml",
+              "ToolTip": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\Views\\SignUpPage.xaml",
+              "RelativeToolTip": "ToDo\\Views\\SignUpPage.xaml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-26T04:56:39.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ToDo\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\MainPage.xaml",
+              "RelativeToolTip": "ToDo\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-26T04:48:38.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

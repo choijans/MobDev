@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ToDo.Views.SignUpPage">
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="15">
+            <Image Source="todo_background.jpg" HeightRequest="200" Aspect="AspectFill" />
+            <Label Text="Sign Up" FontSize="24" FontAttributes="Bold" />
+            <Entry Placeholder="Username" />
+            <Entry Placeholder="Email address" Keyboard="Email" />
+            <Entry Placeholder="Password" IsPassword="True" />
+            <Entry Placeholder="Confirm Password" IsPassword="True" />
+            <Button Text="Sign Up" BackgroundColor="Black" TextColor="White" />
+            <HorizontalStackLayout HorizontalOptions="Center">
+                <Label Text="Already have an account? " />
+                <!-- Tap on this label to navigate back to SignInPage -->
+                <Label Text="Sign In" TextColor="Blue" FontAttributes="Bold">
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="OnSignInTapped" />
+                    </Label.GestureRecognizers>
+                </Label>
+            </HorizontalStackLayout>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
