@@ -1,10 +1,10 @@
 ﻿namespace ToDo
 {
-    public partial class MainPage : ContentPage
+    public partial class SignUpPage : ContentPage
     {
         int count = 0;
 
-        public MainPage()
+        public SignUpPage()
         {
             InitializeComponent();
         }

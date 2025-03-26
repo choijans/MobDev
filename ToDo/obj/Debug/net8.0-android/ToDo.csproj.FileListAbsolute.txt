@@ -1043,3 +1043,4 @@ C:\Users\Josh\source\repos\ToDo\ToDo\obj\Debug\net8.0-android\stamp\_GenerateJav
 C:\Users\Josh\source\repos\ToDo\ToDo\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Josh\source\repos\ToDo\ToDo\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\Josh\source\repos\ToDo\ToDo\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll
+C:\Users\Josh\source\repos\ToDo\ToDo\obj\Debug\net8.0-android\ToDo.sourcelink.json

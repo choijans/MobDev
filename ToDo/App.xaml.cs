@@ -6,8 +6,7 @@
         {
             InitializeComponent();
 
-            // Set the Shell as the main page
-            MainPage = new AppShell();
+            MainPage = new NavigationPage(new Views.SignUpPage());
         }
     }
 }

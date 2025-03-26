@@ -13,7 +13,6 @@
             <Button Text="Sign Up" BackgroundColor="Black" TextColor="White" />
             <HorizontalStackLayout HorizontalOptions="Center">
                 <Label Text="Already have an account? " />
-                <!-- Tap on this label to navigate back to SignInPage -->
                 <Label Text="Sign In" TextColor="Blue" FontAttributes="Bold">
                     <Label.GestureRecognizers>
                         <TapGestureRecognizer Tapped="OnSignInTapped" />

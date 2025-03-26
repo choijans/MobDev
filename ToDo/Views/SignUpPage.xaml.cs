@@ -12,8 +12,7 @@ namespace ToDo.Views
 
         private async void OnSignInTapped(object sender, EventArgs e)
         {
-            // Use Shell navigation to move back to the SignInPage
-            await Shell.Current.GoToAsync("///SignInPage");
+            await Navigation.PushAsync(new SignInPage());
         }
     }
 }

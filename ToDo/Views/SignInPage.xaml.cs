@@ -12,8 +12,7 @@ namespace ToDo.Views
 
         private async void OnSignUpTapped(object sender, EventArgs e)
         {
-            // Use Shell navigation to move to SignUpPage
-            await Shell.Current.GoToAsync("///SignUpPage");
+            await Navigation.PushAsync(new SignUpPage());
         }
     }
 }
