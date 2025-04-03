@@ -11,4 +11,12 @@
     <ShellContent Title="Sign Up"
                   ContentTemplate="{DataTemplate views:SignUpPage}"
                   Route="SignUpPage" />
+     <ShellContent Title="To Do"
+                  ContentTemplate="{DataTemplate views:ToDoTab}"
+                  Route="ToDoTab" />
+    <ShellContent Title="Completed"
+                  ContentTemplate="{DataTemplate views:Completed}"
+                  Route="Completed" />
 </Shell>
+
+
